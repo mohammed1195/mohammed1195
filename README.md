@@ -7,3 +7,6 @@ My true passion lies in storytelling with data. I believe that data has the powe
 As a data analyst, I am committed to delivering results that not only inform but also inspire action. I take pride in my ability to break down complex analyses into digestible information, ensuring that all stakeholders understand the significance of the findings. With my strong analytical skills, attention to detail, and a knack for storytelling, I am well-equipped to make a meaningful impact on any data-driven project. 🚀
 
 Feel free to reach out to me via email at nawafsharief9894@gmail.com or connect with me on LinkedIn at [https://www.linkedin.com/in/azdine-bahloul/](https://www.linkedin.com/in/mohammed-nawaf-sharief/. Let's collaborate and solve problems together! 📚
+
+
+[SQL Project](https://github.com/mohammed1195/libaray_management_sql)
