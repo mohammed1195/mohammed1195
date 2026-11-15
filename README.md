@@ -8,10 +8,11 @@
 
 ## 👨‍💻 About Me
 
-- 📍 Data enthusiast based in London, United Kingdom.
-- 💼 Former Data Analyst at Amazon.
-- 📊 Passionate about data storytelling and turning complex data into clear, useful insights.
-- 🎓 I enjoy explaining analytical findings in a way that helps people make informed decisions.
+- 📍 Based in London, United Kingdom; formerly a Data Analyst at Amazon.
+- 🏗️ I’m focused on growing in data engineering and business intelligence engineering, building dependable pipelines and reporting that help teams serve customers better.
+- 🎯 I take an ownership mindset: understand the customer need first, then follow the work through from the data source to a reliable, useful outcome. This reflects **Customer Obsession** and **Ownership**.
+- 🔎 I enjoy diving into the details, checking what the data is really saying, and turning complex analysis into clear insights people can use to make informed decisions—**Dive Deep** and **Deliver Results**.
+- 🤝 I value generous, respectful collaboration: sharing context, listening to different perspectives, helping teammates, and following through. I aim to build trust and make progress together.
 
 ## 🛠️ Tech Stack
 
