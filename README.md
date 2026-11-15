@@ -1,12 +1,35 @@
-Hello, I am Mohammed Nawaf Sharief, a Data enthusiast based in London, United Kingdom. Welcome to my GitHub profile. Allow me to introduce myself briefly.
+<h1 align="left">Hi, I'm Mohammed Nawaf Sharief 👋</h1>
 
-I am a highly skilled data analyst with a unique blend of expertise and experience. With a background as a former Data Analyst at Amazon , I bring a pedagogical approach to my data analysis work. I have a natural ability to simplify complex concepts and effectively communicate them to my audience. 🎓
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mohammed1195&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-My true passion lies in storytelling with data. I believe that data has the power to tell compelling stories, and I thoroughly enjoy weaving those narratives through insightful visualizations and clear explanations. My proficiency in Excel, SQL, Tableau, and Python allows me to delve deep into intricate data sets, extracting valuable insights that drive informed business decisions. 💡
+<img align="right" width="220" src="https://github.com/mohammed1195.png" alt="Mohammed Nawaf Sharief's GitHub profile picture" />
 
-As a data analyst, I am committed to delivering results that not only inform but also inspire action. I take pride in my ability to break down complex analyses into digestible information, ensuring that all stakeholders understand the significance of the findings. With my strong analytical skills, attention to detail, and a knack for storytelling, I am well-equipped to make a meaningful impact on any data-driven project. 🚀
+## 👨‍💻 About Me
 
-Feel free to reach out to me via email at nawafsharief0616@gmail.com or connect with me on LinkedIn at (https://www.linkedin.com/in/mohd-nawaf-data-analyst-swe/. Let's collaborate and solve problems together! 📚
+- 📍 Data enthusiast based in London, United Kingdom.
+- 💼 Former Data Analyst at Amazon.
+- 📊 Passionate about data storytelling and turning complex data into clear, useful insights.
+- 🎓 I enjoy explaining analytical findings in a way that helps people make informed decisions.
 
+## 🛠️ Tech Stack
 
-[SQL Project](https://github.com/mohammed1195/libaray_management_sql)
+### 📊 Data & Analytics
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+
+### 💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+## 📂 Featured Project
+
+- [SQL Library Management Project](https://github.com/mohammed1195/libaray_management_sql)
+
+## 🤝 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nawafsharief0616@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-nawaf-data-analyst-swe/)
