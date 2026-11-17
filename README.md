@@ -59,10 +59,29 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📂 Featured Project
+## 📂 Featured Projects
 
+### 🏦 Data Engineering Banking Data
 
-- [SQL Library Management Project](https://github.com/mohammed1195/libaray_management_sql)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed1195/Data_Engineering_Banking-Data)
+
+PySpark pipeline that organizes LendingClub loan data into customer, loan, repayment, and credit-risk datasets.
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Hadoop YARN and HDFS](https://img.shields.io/badge/Hadoop-YARN%20%7C%20HDFS-4C8CBF?style=flat&logo=apachehadoop&logoColor=white)
+
+### 📚 SQL Library Management Project
+
+[View repository](https://github.com/mohammed1195/libaray_management_sql)
+
+## 🏅 Certifications
+
+<a href="https://www.credly.com/badges/0b972ac0-ff80-443c-a94f-d4af5c4dc253/linked_in_profile">
+  <img src="https://images.credly.com/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" alt="AWS Certified Data Engineer – Associate badge" width="160" />
+</a>
+
+**AWS Certified Data Engineer – Associate**  
+Issued: April 29, 2026 · Expires: April 29, 2029
 
 ## 🤝 Let's Connect
 
